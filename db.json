@@ -1,0 +1,106 @@
+{
+    "computador":[
+        {
+            "id": 1,
+            "nome": "Placa de vídeo Galax Nvidia GeForce RTX 4080" ,
+            "descrição":"Alimentado pela nova arquitetura NVIDIA Ada Lovelace ultraeficiente, o 3rd geração de RTX, GeForce RTX 40 Series placas gráficas estão além rápido, dando gamers e criadores um salto quântico no desempenho, gráficos al-powered, e assim muitos mais recursos de plataforma líderes" ,
+            "preço":"15.300,00" 
+        },
+        {
+            "id": 2,
+            "nome": "Processador AMD Ryzen 5 4600G" ,
+            "descrição":"O Ryzen 5 4600G conta com 6 núcleos incríveis para quem quer jogar e realizar qualquer tafera. Os processadores AMD Ryzen capacitam a próxima geração de jogos exigentes, proporcionando experiências imersivas únicas e dominando qualquer tarefa multithread como 3D e renderização de vídeo e compilação de software." ,
+            "preço":"879,30" 
+        }, 
+        {
+            "id": 3,
+            "nome": "Memória para Notebook Kingston Valueram" ,
+            "descrição":"A Kingston é sinônimo de trajetória e excelência no mercado tecnológico, principalmente no que diz respeito às memórias ram." ,
+            "preço":"239,40" 
+        },
+        {
+            "id": 4,
+            "nome": "HD Externo Portátil Seagate Expansion" ,
+            "descrição":"O Seagate Expansion oferece enorme capacidade e facilidade para capacitar, gerenciar e proteger toda a sua vida localmente." ,
+            "preço":"469,80"
+        }
+    ],
+    "headsets":[
+        {
+            "id": 1,
+            "nome": "Headset Gamer HyperX Cloud Stinger" ,
+            "descrição":"Completa e versátil, a linha de headsets Cloud foi projetada para as necessidades de qualquer nível de jogador. Independente do seu sistema, estilo de jogo e características este headset irá te surpreender." ,
+            "preço":"149,99" 
+        },
+        { 
+            "id": 2,
+        "nome": "Headset Gamer Alienware 7.1" ,
+        "descrição":"Fique um passo à frente do seu adversário com o som surround 7.1 virtual imersivo que deixa as partidas ainda mais envolventes. Os momentos soam mais nítidos com os melhores drivers da categoria, com 50 mm, frequência de 20 Hz a 40 KHz e ajustes personalizados, que proporcionam áudio de alta resolução." ,
+        "preço":"698,00"
+    },
+    { 
+            "id": 3,
+        "nome": "Headset Gamer USB Warrior Thyra com vibração" ,
+        "descrição":"Projetado para atender todas as exigências o Headset Thyra irá proporcionar máxima vantagem competitiva, com o som digital 7.1 o Headset possui a melhor qualidade sonora e o microfone omnidirecional oferece a diminuição de ruído. O modelo perfeito com qualidade de áudio e comunicação clara para o seu setup." ,
+        "preço":"234,90"
+    },
+    {
+    "id": 4,
+        "nome": "Headset Gamer Sem fio Alienware Tri-Mode" ,
+        "descrição":"O novo Dolby Atmos® Virtual Surround Sound entrega um áudio cristalino com precisão tridimensional, para que você possa reagir com mais rapidez e exatidão aos alvos fora da tela, mesmo quando você passa pelos campos de batalha mais caóticos." ,
+        "preço":"1.499,00"
+    }
+    ],
+    "teclados":[
+        { 
+            "id": 1,
+        "nome": "Teclado Gamer Mecânico Alienware Low Profile RGB AW510K" ,
+        "descrição":"Um teclado para jogos repleto de recursos e com belíssimo design que oferece teclas programáveis e controle dedicado de volume. Feito para proporcionar o melhor desempenho." ,
+        "preço":"999,00"
+    },
+    { 
+        "id": 2,
+        "nome": "HyperX Teclado Gamer HyperX Alloy Core RGB, ABNT2" ,
+        "descrição":"O HyperX Alloy Core RGB impressiona com seus efeitos RGB suaves e elegantes e com opção de 6 efeitos predefinidos. Além disso, possui a com a opção de personalização multicolorida de 5 zonas." ,
+        "preço":"158,72"
+    },
+    { 
+        "id": 3,
+        "nome": "Teclado Gamer Black Shield, USB, TGBS, Elg Gamer - CX 1 UN" ,
+        "descrição":"Possui 107 teclas de respostas rápidas e precisas, função Anti-Ghosting e layout ABNT2. O curso de acionamento das teclas é de 0,9 mm proporcionando toque macio e confortável para horas de jogo sem fadiga. Possui Iluminação backlight customizável em três cores, 12 teclas de atalho para internet e multimídia, através da tecla Fn. Interface USB 2.0 e cabo de 1,5 metro." ,
+        "preço":"99,90"
+    },
+    { 
+        "id": 4,
+        "nome": "Teclado Gamer Semi Mecânico Multimídia Led Rgb Qwerty Antighosting Usb para Pc Notebook Xbox Series X S Ps4 Ps5" ,
+        "descrição":"Perfeito para quem gosta de jogar online, possui teclas macias e seu maior diferencial: As luzes RGB de fundo que deixa o teclado mais bonito e melhora a visualização das teclas" ,
+        "preço":"74,90"
+    }
+    ],
+    "monitores":[
+        { 
+        "id": 1,
+        "nome": "Monitor 23.8” Dell" ,
+        "descrição":"Monitor de 23,8, com design elegante que cabe facilmente em qualquer espaço e está pronto para o seu estilo de vida diário." ,
+        "preço":"1.049,00"
+    },
+    { 
+        "id": 2,
+        "nome": "Monitor Curvo WQHD 34 Dell" ,
+        "descrição":"Monitor curvo WQHD de 34 com VESA DisplayHDR 400 e taxa de atualização de 144 Hz que proporciona uma experiência gamer realmente imersiva." ,
+        "preço":"3.891,00"
+    },
+    { 
+        "id": 3,
+        "nome": "Monitor Gamer LG 26 IPS, Ultra Wide, 75Hz, Full HD, 1ms, FreeSync Premium, HDR 10, 99% sRGB, HDMI, VESA" ,
+        "descrição":"Equipa os jogadores sérios com uma experiência de jogo fluida e praticamente sem rasgos. Com taxa de atualização de pelo menos 120 hz com resolução FHD mínima e jogabilidade de baixa latência, você nunca perderá um quadro da ação enquanto joga com desempenho máximo." ,
+        "preço":"799,99"
+    },
+    { 
+        "id": 4,
+        "nome": "Monitor Gamer LG Ultrawide 29UM69G - 29 Full HD IPS, 1ms Motion Blur Reduction, NVIDIA FreeSync" ,
+        "descrição":"O LG UltraWide Pro Gamer oferece 30% mais tela para uma incrível imersão visual, dando a vantagem que você precisa para ganhar de seus adversários." ,
+        "preço":"1.299,99"
+    }
+    ]
+}
